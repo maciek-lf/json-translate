@@ -1,0 +1,20 @@
+{
+  "name": "json-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "json-translate.js",
+  "scripts": {
+    "start": "node json-translate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciek-lf/json-translate.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciek-lf/json-translate/issues"
+  },
+  "homepage": "https://github.com/maciek-lf/json-translate#readme"
+}
